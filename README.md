@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Stock Screener**
 - 🌱 I’m currently learning **Flask**
 - 👨‍💻 All of my projects are available at [github.com/DhruvPipaliya1](https://github.com/DhruvPipaliya1)
-- 📫 How to reach me: **dhruvpipaliya24@gmail.com**
+- 📫 How to reach me: **pipaliyadhruv24@gmail.com**
 
 ---
 

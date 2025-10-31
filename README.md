@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pipaliya</h1>
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Stock Screener**
-- 🌱 I’m currently learning **Flask**
+- 🔭 I’m currently working on **SmartPark AI**
+- 🌱 I’m currently learning **React-native**
 - 👨‍💻 All of my projects are available at [github.com/DhruvPipaliya1](https://github.com/DhruvPipaliya1)
 - 📫 How to reach me: **pipaliyadhruv24@gmail.com**
 

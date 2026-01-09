@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 
 - 🔭 I’m currently working on **VCIP - Video Calling Interview Platform**
-- 🌱 I’m currently learning **React-native**
+- 🌱 I’m currently learning **Dot Net Core**
 - 👨‍💻 All of my projects are available at [github.com/DhruvPipaliya1](https://github.com/DhruvPipaliya1)
 - 📫 How to reach me: **pipaliyadhruv24@gmail.com**
 
